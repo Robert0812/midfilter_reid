@@ -31,7 +31,7 @@ other platforms, you are referred to Prof. Andrea Vedaldi's webpage to download 
 full code to compile. 
 
 ##Demos
-One demo are available:
+One demo is available:
 - demo_midfilter_cuhk01.m : perform evaluation on the [CUHK01
 dataset](https://docs.google.com/forms/d/1MF0gAXWKeO1hpsuHlSpPBS8D5JR-r-QOPtdUoFQJONo/viewform?formkey=dF9pZ1BFZkNiMG1oZUdtTjZPalR0MGc6MA)
 
