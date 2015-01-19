@@ -2,7 +2,7 @@
 Matlab code for our CVPR 2014 work on learning mid-level filters for person
 re-identification. 
 
-Created by [Rui Zhao](www.ee.cuhk.edu.hk/~rzhao), on May 20, 2013. 
+Created by [Rui Zhao](www.ee.cuhk.edu.hk/~rzhao), on June 20, 2014. 
 
 ##Summary
 In this package, you can find an updated version of MATLAB code for the
