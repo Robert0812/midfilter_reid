@@ -11,7 +11,8 @@ Rui Zhao, Wanli Ouyang, and Xiaogang Wang. Unsupervised Salience Learning for
 Person Re-identification. In CVPR 2014. 
 
 ##Install
-- Download CUHK01 dataset, and put it into directory ./dataset/campus/
+- Download [CUHK01
+dataset](https://docs.google.com/forms/d/1MF0gAXWKeO1hpsuHlSpPBS8D5JR-r-QOPtdUoFQJONo/viewform?formkey=dF9pZ1BFZkNiMG1oZUdtTjZPalR0MGc6MA), and put it into directory ./dataset/campus/
 - Compile [LibSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/): and put it to
 directory ./code/libsvm
 - [GACtoolbox](https://github.com/waynezhanghk/gactoolbox): the gactoolbox in
