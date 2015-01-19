@@ -48,7 +48,7 @@ rate for only one-trial testing.
 ##Citing our work
 Please kindly cite our work in your publications if it helps your research:
 
-	@inproceedings{zhao2013unsupervised,
+	@inproceedings{zhao2014learning,
 	    title = {Learning Mid-level Filters for Person Re-identification},
  	    author={Zhao, Rui and Ouyang, Wanli and Wang, Xiaogang},
 	    booktitle = {IEEE Conference on Computer Vision and Pattern
