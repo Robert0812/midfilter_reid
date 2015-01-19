@@ -7,7 +7,7 @@ Created by [Rui Zhao](www.ee.cuhk.edu.hk/~rzhao), on May 20, 2013.
 ##Summary
 In this package, you can find an updated version of MATLAB code for the
 following paper:
-Rui Zhao, Wanli Ouyang, and Xiaogang Wang. Unsupervised Salience Learning for
+- Rui Zhao, Wanli Ouyang, and Xiaogang Wang. Unsupervised Salience Learning for
 Person Re-identification. In CVPR 2014. 
 
 ##Install
