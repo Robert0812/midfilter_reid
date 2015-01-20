@@ -59,7 +59,7 @@ Please kindly cite our work in your publications if it helps your research:
 
 ##License
 
-	Copyright (c) 2013, Rui Zhao
+	Copyright (c) 2014, Rui Zhao
 	All rights reserved. 
 
 	Redistribution and use in source and binary forms, with or without 
